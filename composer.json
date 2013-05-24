@@ -1,5 +1,5 @@
 {
-    "name": "codeconsortium/ccdn-forum-bundle",
+    "name": "my/codeconsortium/ccdn-forum-bundle",
     "type": "symfony-bundle",
     "description": "CCDN Forum Bundle",
     "keywords": ["ccdn", "codeconsortium", "forum", "board"],
@@ -14,7 +14,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.2",
-        "symfony/symfony": "2.1.*",
+        "symfony/symfony": ">=2.1.*",
         "doctrine/doctrine-bundle": "*"
     },
     "autoload": {
